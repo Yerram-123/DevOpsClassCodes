@@ -10,7 +10,7 @@ pipeine {
         git 'https://github.com/Yerram-123/DevOpsClassCodes.git' 
       } 
     } 
-    stage('Compile') {
+    stage('DevCompile') {
       steps { 
          sh 'mvn compile' 
       } 
