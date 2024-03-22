@@ -1,7 +1,7 @@
 pipeine { 
    agent any 
   tools { 
-    jdk 'myjava -- jdk8' 
+    jdk 'myjava' 
     maven 'mymaven' 
   } 
   stages { 
