@@ -24,4 +24,7 @@ pipeine {
       steps { 
          sh 'mvn test' 
       } 
-    }  
+    }   
+
+  } 
+} 
